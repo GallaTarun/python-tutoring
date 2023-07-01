@@ -5,6 +5,7 @@
 - Functions
 - Classes, objects
 - Data structures
+    - Strings
     - List 
     - Tuple 
     - Set 
